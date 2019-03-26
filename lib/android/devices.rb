@@ -16,9 +16,10 @@ module Android
       def devices
         return @devices unless @devices.nil?
 
-        rows = CSV.read(PATH)
-        load_devices(rows)
-        load_manufacturers(rows)
+        CSV
+          .read(PATH)
+          .tap(&method(:load_devices))
+          .tap(&method(:load_manufacturers))
 
         @devices
       end

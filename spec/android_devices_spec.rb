@@ -41,6 +41,8 @@ describe Android::Devices do
   end
 
   describe '#manufacturer_name' do
+    before { subject.devices }
+
     context 'when the manufacturer is unknown' do
       it 'returns the passed manufacturer back' do
         expect(subject.manufacturer_name('Some')).to eq 'Some'

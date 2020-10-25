@@ -106,6 +106,7 @@ AT&T,9020A,tint8_att,9020A
 AT&T,AT&T TV,c71kw200,AT&T TV
 AT&T,AT&T TV,c71kw200,c71kw200
 AT&T,AT&T TV,c71kw400,AT&T TV
+AT&T,AT&T TV,c71kw400-4gb,AT&T TV
 AT&T,QS5509A,QS5509QL,QS5509A
 AT&T,U202AA,U202AA,U202AA
 AT&T,U304AA,U304AA,U304AA
@@ -365,6 +366,7 @@ Acer,Z110,Z1,Z110
 Acer,Z120,Z2,Z120
 Aceson,R726,R726,R726
 Aconatic,ACONATIC,bangbae,Aconatic 4K Android TV
+Aconatic,Aconatic,komagome,Aconatic 2K Android TV
 Aconatic,Android TV,R1,ATV R1
 Aconatic,Android TV,R2,ATV R2
 Aconatic,DV6068Y,DV6068Y,DV6068Y
@@ -2183,6 +2185,7 @@ BQru,BQ-5730L,BQru-5730L,BQ-5730L
 BQru,BQ-5731L Magic S,BQru-5731L,BQ-5731L
 BQru,BQ-5732L,BQru-5732L,BQ-5732L
 BQru,BQ-5740G,BQru-5740G,BQ-5740G
+BQru,BQ-5740G_7731,BQru-5740G_7731,BQ-5740G
 BQru,BQ-6000L Aurora,BQru-6000L,BQ-6000L
 BQru,BQ-6001 L,BQru-6001L,BQ-6001L
 BQru,BQ-6010G,BQru_6010G,BQ-6010G
@@ -2204,6 +2207,7 @@ BQru,BQ-7040G,BQru-7040G_2020,BQ-7040G
 BQru,BQ-7081G,BQru-7081,BQru-7081
 BQru,BQ-7082G,BQru-7082G_2019,BQ-7082G
 BQru,BQ-7082G,BQru-7082G_2020,BQ-7082G
+BQru,BQ-7083G_Plus,BQru-7083G_Plus,BQ-7083G
 BQru,BQ-7084G,BQru-7084G,BQ-7084G
 BQru,BQ-7098G,BQru-7098G,BQ-7098G
 BQru,BQ-7098G,BQru-7098G_2020,BQ-7098G
@@ -2499,6 +2503,7 @@ Blackview,BV6000S_RU,BV6000S_RU,BV6000S_RU
 Blackview,BV6000_RU,BV6000_RU,BV6000_RU
 Blackview,BV6000s,BV6000S,BV6000S
 Blackview,BV6100,BV6100,BV6100
+Blackview,BV6300,BV6300,BV6300
 Blackview,BV6300Pro,BV6300Pro,BV6300Pro
 Blackview,BV6800Pro,BV6800Pro,BV6800Pro
 Blackview,BV6800Pro-RU,BV6800Pro_RU,BV6800Pro_RU
@@ -3653,6 +3658,7 @@ Continental Edison,CE10402,CE10402,CE10402
 Continental Edison,Continental Edison,yeongdeungpo,B UHD Android TV
 Continental Edison,Continential_Edison,bangbae,Continental 4K Android TV
 Continential,CE10412,CE10412,CE10412
+Continential,Edison-Continential,komagome,Continental 2K Android TV
 Contixo,	K101A,K101A,K101A
 Contixo,CONTIXO_V8,CONTIXO-V8,V8
 Contixo,K101,K101,K101
@@ -4792,6 +4798,7 @@ Duubee,D601L,Gaia,D601L
 Duubee,W1,W1,W1
 Duubee,W2,W2,W2
 Dynalink,STI6130-D350,sti6130d350,Dynalink TV Box
+Dyon,Dyon,komagome,Dyon 2K Android TV
 E-Boda,Eclipse G400M,Eclipse_G400M,Eclipse_G400M
 E-Boda,Eclipse G500HD,E-Boda_Eclipse_G500HD,Eclipse G500HD
 E-Boda,Eclipse G500M,Eclipse_G500M,Eclipse_G500M
@@ -10116,7 +10123,6 @@ INOI,INOI_6i_Lite,INOI_6i_Lite,INOI_6i_Lite
 INOI,INOI_7_2020,INOI_7_2020,INOI 7 2020
 INOI,INOI_7_LITE,INOI_7_LITE,INOI_7_LITE
 INOI,INOI_7i,INOI_7i,INOI_7i
-INOI,inoiPad_mini_3G,inoiPad_mini_3G,inoiPad mini 2+32 Wi-Fi+3G
 INOVALLEY,MID_106_3G,MID106-3G,MID106-3G
 INOVALLEY,MID_109_Oreo_BTH,MID_109_Oreo_BTH,MID_109_Oreo_BTH
 INQ Mobile,,camden,Camden
@@ -10154,6 +10160,7 @@ IView,IVIEW,IVIEW_1170TPC,1170TPC
 IView,Retailer Stores,730TPC,730TPC
 IView,SupraPad i700,g01i,i700
 IView,SupraPad i785Q,anchor,i785Q
+IWRIST,IWRIST_M11,IWRIST_M11,IWRIST_M11
 IWRIST,IWRIST_M7,IWRIST_M7,IWRIST_M7
 IWRIST,IWRIST_M8,IWRIST_M8,IWRIST_M8
 IZZI Telecom,HP2714,HPH65,HP2714
@@ -10221,6 +10228,7 @@ Infinix,32X1,ikebukuro,AI PONT
 Infinix,55X1,samseong,AI PONT
 Infinix,HOT 10,Infinix-X682B,Infinix X682B
 Infinix,HOT 10,Infinix-X682C,Infinix X682C
+Infinix,HOT 10 Lite,Infinix-X657B,Infinix X657B
 Infinix,HOT 10 lite,Infinix-X657B,Infinix X657B
 Infinix,HOT 2,Infinix_X510,Infinix X510
 Infinix,HOT 3,INFINIX-X554,Infinix HOT 3 Pro
@@ -10900,6 +10908,7 @@ Itel,itel MC20,itel-A23F,itel A23
 Itel,itel P41,itel_P41,itel P41
 Itel,itel Prime 4,itel_Prime4,itel Prime 4
 Itel,itel S12,itel-S12,itel S12
+Itel,itel S16 Pro,itel-W6503,itel W6503
 Itel,itel S32LTE,itel-S32LTE,itel S32LTE
 Itel,itel Vision1(P36 Play),itel-L6005,itel L6005
 Itel,itel W4003,itel-W4003,itel W4003
@@ -14172,6 +14181,7 @@ Logic Mobility,LOGIC_X40,LOGIC_X40,X40
 Logic Mobility,LOGIC_X60G,LOGIC_X60G,LOGIC_X60G
 Logic Mobility,T10B,T10B,T10B
 Logic Mobility,T10L,T10L,T10L
+Logic Mobility,T10W,T10W,LOGIC T10W
 Logic Mobility,T3G,T3G,T3G
 Logic Mobility,T4G,T4G,T4G
 Logic Mobility,T7_plus,T7_plus,T7_plus
@@ -14635,6 +14645,7 @@ Maxcom,MS514,MS514,MS514
 Maxcom,MS515,MS515,MS515
 Maxcom,MS553,MS553,MS553
 Maxcom,MS571,MS571,MS571
+Maxcom,MS571,MS571_plus,MS571
 Maxcom,MS572,MS572,MS572
 Maxcom,RS-401,RS_401,RS-401
 Maxfone,MAX 1X,MAX_1X,MAX 1X
@@ -17477,6 +17488,8 @@ Orange,Neva start,Neva_start,Orange Neva start
 Orange,Nura,M812,Orange Nura
 Orange,Nura2,m823_orange,Nura 2
 Orange,Orange,Rise_55,Orange Rise 55
+Orange,Orange Neva play,Neva_play,Orange Neva play
+Orange,Orange Neva zen,Neva_zen,Orange Neva zen
 Orange,Orange Nola play,Nola_play,Orange Nola play
 Orange,Orange Rise 33,Rise33,Orange_Rise_33
 Orange,Orange Rise 53,Rise_53,Orange Rise 53
@@ -19957,7 +19970,6 @@ Samsung,Galaxy A51,a51,SM-A515U
 Samsung,Galaxy A51,a51,SM-A515U1
 Samsung,Galaxy A51,a51,SM-A515W
 Samsung,Galaxy A51,a51,SM-S515DL
-Samsung,Galaxy A51 5G,SC-54A,SC-54A
 Samsung,Galaxy A51 5G,a51x,SM-A5160
 Samsung,Galaxy A51 5G,a51x,SM-A516B
 Samsung,Galaxy A51 5G,a51x,SM-A516N
@@ -21735,6 +21747,7 @@ Samsung,Galaxy Tab Active2,gtactive2wifi,SM-T390
 Samsung,Galaxy Tab Active3,gtactive3,SM-T575
 Samsung,Galaxy Tab Active3,gtactive3,SM-T575N
 Samsung,Galaxy Tab Active3,gtactive3,SM-T577
+Samsung,Galaxy Tab Active3,gtactive3,SM-T577U
 Samsung,Galaxy Tab Active3,gtactive3wifi,SM-T570
 Samsung,Galaxy Tab Advanced2,gtaxladwifikx,SM-T583
 Samsung,Galaxy Tab E,gtel3g,SM-T561M
@@ -22725,6 +22738,7 @@ Siragon,SP-5400,SP-5400,SP-5400
 Siragon,SP-5450 ,SP-5450,SP-5450
 Siragon,SP-6000,SP-6000,SP-6000
 Siragon,SP-6100,SP-6100,SP-6100
+Siragon,SP-6150,SP-6150,SP-6150
 Siragon,SP-7050,SP-7050,SP-7050
 Siragon,SP-7100,SP-7100,SP-7100
 Siragon,TB-5300,TB-5300,TB-5300
@@ -23544,6 +23558,7 @@ Sprint,AQT82,NKSA_AQT82,AQT82
 Sprint,HTC Bolt,htc_acawhl,2PYB2
 Sprint,Slate 8 Tablet,NKS_AQT80,AQT80
 StarHub,Android TV Set-Top Box,KM_SH368AT,KM_SH368AT
+StarHub,NVSH800H1,NVSH800H1,NVSH800H1
 StarMobile,Mobiistar_Zumbo_J2,Mobiistar_Zumbo_J2,Mobiistar Zumbo J2
 StarMobile,PLAY Click LTE,PLAY_Click_LTE,PLAY Click LTE
 StarMobile,Play Go,PLAY_GO,Starmobile PLAY GO
@@ -23867,6 +23882,7 @@ TCL,Percee TV,tcl_sa,Percee TV
 TCL,Smartphone,A5A_INFINI,5086D
 TCL,Smartphone,A5A_INFINI,5186D
 TCL,South America,tcl,Percee TV
+TCL,TCL 10 5G,Seattle,T790B
 TCL,TCL 10 5G,Seattle,T790H
 TCL,TCL 10 5G,Seattle,T790Y
 TCL,TCL 10 Plus,Boston,T782H
@@ -23892,6 +23908,7 @@ TCL,TCL L10,Faraday,5124J
 TCL,TCL L10 Lite,Jakarta_Lite,4187M
 TCL,TCL L10 Lite,Jakarta_Lite,4187U
 TCL,TCL L10+,Jakarta,5030E_TCL
+TCL,TCL L10+,Jakarta,5130E
 TCL,TCL L10+,Jakarta,5130G
 TCL,TCL L10+,Jakarta,5130I
 TCL,TCL L10+,Jakarta,5130J
@@ -25334,6 +25351,7 @@ Technicolor,WOW! Sapphire,uiw4020wow,CWM19
 Technicolor,Wind,uzw4030wnh,WIND
 Technicolor,Wind,uzw4030wnh,Wind
 Technocrat,SC777,SC777,SC777
+Technocrat,SC777-F,SC777-F,SC777-F
 Techpad,1016S,1016S,1016S
 Techpad,816,816,816
 Techpad,GamePad,GamePad,GamePad
@@ -26125,6 +26143,7 @@ Umidigi,A7,A7,A7
 Umidigi,A7,A7_EEA,A7
 Umidigi,A7 Pro,A7_Pro,A7 Pro
 Umidigi,A7 Pro EEA,A7_Pro,A7 Pro
+Umidigi,BISON,BISON,BISON
 Umidigi,F1,F1,F1
 Umidigi,F1_EEA,F1,F1
 Umidigi,F2,F2,F2
@@ -27335,6 +27354,7 @@ Wiko,Sunny3 Mini,W_K101,Sunny3 Mini
 Wiko,Sunny3 Mini,W_K101S,Sunny3 Mini
 Wiko,Sunny4,W-K130,W-K130-TMV
 Wiko,Sunny5,W-K380,W-K380-TVM
+Wiko,Sunny5 Lite,W-K211,W-K211-TVM
 Wiko,TOMMY,P4901AC,TOMMY
 Wiko,TOMMY,P4903LA,TOMMY
 Wiko,TOMMY2,T3931AC,TOMMY2

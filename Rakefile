@@ -5,8 +5,7 @@ require 'open-uri'
 require 'csv'
 
 task :update do
-  csv_url = 'http://storage.googleapis.com/play_public/supported_devices.csv'
-  devices = CSV.parse(open(csv_url).read)
+  devices = CSV.parse(URI.open('http://storage.googleapis.com/play_public/supported_devices.csv', 'rb:UTF-16LE').read)
   File.open('content/devices.csv', 'w') { |f| f.write(devices.inject([]) { |csv, row| csv << CSV.generate_line(row) }.join('').encode('UTF-8')) }
 end
 

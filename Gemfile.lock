@@ -1,27 +1,28 @@
 PATH
   remote: .
   specs:
-    android-devices (3.1.0)
+    android-devices (4.0.0)
 
 GEM
   remote: https://rubygems.org/
   specs:
     byebug (11.1.3)
-    diff-lcs (1.5.0)
-    rake (13.0.6)
-    rspec (3.11.0)
-      rspec-core (~> 3.11.0)
-      rspec-expectations (~> 3.11.0)
-      rspec-mocks (~> 3.11.0)
-    rspec-core (3.11.0)
-      rspec-support (~> 3.11.0)
-    rspec-expectations (3.11.1)
+    csv (3.3.0)
+    diff-lcs (1.5.1)
+    rake (13.2.1)
+    rspec (3.13.0)
+      rspec-core (~> 3.13.0)
+      rspec-expectations (~> 3.13.0)
+      rspec-mocks (~> 3.13.0)
+    rspec-core (3.13.0)
+      rspec-support (~> 3.13.0)
+    rspec-expectations (3.13.0)
       diff-lcs (>= 1.2.0, < 2.0)
-      rspec-support (~> 3.11.0)
-    rspec-mocks (3.11.1)
+      rspec-support (~> 3.13.0)
+    rspec-mocks (3.13.1)
       diff-lcs (>= 1.2.0, < 2.0)
-      rspec-support (~> 3.11.0)
-    rspec-support (3.11.1)
+      rspec-support (~> 3.13.0)
+    rspec-support (3.13.1)
 
 PLATFORMS
   ruby
@@ -30,8 +31,9 @@ DEPENDENCIES
   android-devices!
   bundler
   byebug
+  csv
   rake
   rspec
 
 BUNDLED WITH
-   2.3.24
+   2.5.11
